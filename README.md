@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![54322f4ae14c17b70e0e3d23e884e12a453c3e74](https://github.com/user-attachments/assets/9cd33905-1cb4-4e23-81d8-58921b646aa9)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +65,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+![9c48ee25bd306f445d2646e8bfac9e28099247d3](https://github.com/user-attachments/assets/e224e9ec-224f-4698-98bb-00b5147093cc)
 
 
 
@@ -80,7 +80,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![aabd8448424d0abe67a1d1c069a09cffc2b06b85](https://github.com/user-attachments/assets/c377530c-d9bc-4048-bbe9-8d09415ca369)
 
  
 
@@ -102,7 +102,7 @@ For Transient Analysis Settings and Output
 ![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+![80892f770622d5503267b40f5c1cb74020930e19](https://github.com/user-attachments/assets/a3f2aa10-9905-4546-8882-7280c80c214a)
 
   
 
